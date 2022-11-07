@@ -3,6 +3,8 @@ algorithm & flowchart palindrome
 
 algorithm & flowchart vowel/tukar konsonan
 
+biodata
+
 rata-rata nilai UN
 
 palindrome
